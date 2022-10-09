@@ -1,0 +1,14 @@
+LibreWolf Browser Fetcher Bash Script
+Produced by a citizen of the Nation of Flos Regium: https://flosregium.online
+License: TNOFRS License (See License File)
+Privacy Respecting Browser Startpage: https://historya.live/start/
+=========================================
+
+This bash script is designed to allow easy fetching of the latest LibreWolf AppImage, verify the integrity (sha256), and provide a portable lauch script for people who wish to use it in a portable manner.
+
+How to use:
+* Obtain the script package
+* Read and agree to the short license
+* Make the script(s) runable (chmod +x filename)
+* The 1run.sh does the fetching
+* The LibreWolf.AppImage.portable.sh does the portable launching
